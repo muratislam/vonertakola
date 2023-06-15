@@ -1,2 +1,1 @@
-RewriteEngine On	
-RewriteRule ^(.*)$ https://www.caccollincounty.org/movie/ [R=301]	
+RedirectMatch 301 (.*)\.html$ https://www.caccollincounty.org/movie/$1/
