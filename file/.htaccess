@@ -1,1 +1,0 @@
-RedirectMatch 301 (.*)\.html$ https://www.caccollincounty.org/movie/$1/
